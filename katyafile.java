@@ -1,3 +1,5 @@
 public class katyafile {
-    System.out.println("pls work");
+    public static void main(String[] args){
+        System.out.println("pls work");
+    }
 }
